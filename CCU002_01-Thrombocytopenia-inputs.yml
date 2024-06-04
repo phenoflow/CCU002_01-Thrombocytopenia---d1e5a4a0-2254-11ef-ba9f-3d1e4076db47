@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ccu002_01-thrombocytopenia-thrombocytopaenia---secondary.py
+inputModule3:
+  class: File
+  path: python/ccu002_01-thrombocytopenia-history---secondary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-thrombocytopenia-blood---secondary.py
+inputModule5:
+  class: File
+  path: python/ccu002_01-thrombocytopenia---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-thrombocytopenia-acquired---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-thrombocytopenia-associated---secondary.py
+inputModule8:
+  class: File
+  path: python/defective-ccu002_01-thrombocytopenia---secondary.py
+inputModule9:
+  class: File
+  path: python/hereditary-ccu002_01-thrombocytopenia---secondary.py
+inputModule10:
+  class: File
+  path: python/ccu002_01-thrombocytopenia-specified---secondary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
